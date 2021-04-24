@@ -5,3 +5,5 @@ tekrar deniyorum :d
 
 buralarada belki minik kod taneleri eklenmiştir.
 şuralarda da minik buglar oluşmuş gibi...
+
+Bence burada hiç bug yok, Hilal çok iyi yazdığı için onayladım
